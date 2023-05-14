@@ -1,0 +1,9 @@
+README.md
+setup.py
+Betterinput/__init__.py
+Betterinput/functions.py
+Betterinput.egg-info/PKG-INFO
+Betterinput.egg-info/SOURCES.txt
+Betterinput.egg-info/dependency_links.txt
+Betterinput.egg-info/top_level.txt
+test/test_functions.py
