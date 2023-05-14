@@ -1,4 +1,4 @@
-# Betterinput
+# Inputbetter
 An easier way to input data into python lists
 
 ![logo](https://github.com/Sankie005/Betterinput/blob/3e1eabc95e6922444b7746da9b0946d869db781d/betterinputlogo.png)
