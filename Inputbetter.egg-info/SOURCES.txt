@@ -1,0 +1,8 @@
+setup.py
+Inputbetter/__init__.py
+Inputbetter/functions.py
+Inputbetter.egg-info/PKG-INFO
+Inputbetter.egg-info/SOURCES.txt
+Inputbetter.egg-info/dependency_links.txt
+Inputbetter.egg-info/top_level.txt
+test/test_functions.py
