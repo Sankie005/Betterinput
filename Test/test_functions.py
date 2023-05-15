@@ -1,3 +1,3 @@
 from Inputbetter import btrinpt as bi
 def test():
-    bi("int","X coords",3)
+    bi("mixed","X coords",3)
